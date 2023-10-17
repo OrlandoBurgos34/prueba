@@ -1,4 +1,8 @@
 console.log("hola mundo");
 
 
+<<<<<<< HEAD
 var numero = 1022033
+=======
+var numern = 13
+>>>>>>> segunda-rama
